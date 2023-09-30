@@ -1,7 +1,7 @@
   👋 Hi, I’m @vnlemanhthanh
   <br/>
   📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vnlemanhthanh&show_icons=true&theme=gotham" alt="vnlemanhthanh" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vnlemanhthanh&count_private=true&show_icons=true&include_all_commits=true" alt="vnlemanhthanh" />
 <hr/>
 
 <!---
